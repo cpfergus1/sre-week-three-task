@@ -1,0 +1,6 @@
+Current restart count: 2
+Current restart count: 3
+Current restart count: 3
+Current restart count: 4
+Restart limit exceeded. Scaling down the deployment...
+error: no objects passed to scale
